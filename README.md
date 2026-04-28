@@ -34,7 +34,7 @@ My repositories include work ranging from:
 
 I am continuously working on new projects to improve my engineering skills and apply what I learn in practical scenarios.
 
-## 🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,9 +60,7 @@ I am continuously working on new projects to improve my engineering skills and a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 📈 GitHub Stats
-
-## 📊 GitHub Stats
+**📊 GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiran020498&show_icons=true&theme=vision-friendly-dark&title_color=FFD700&text_color=FFFFFF&icon_color=32CD32&bg_color=000000&border_color=30363D)
 
