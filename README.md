@@ -10,17 +10,16 @@ I recently graduated with a Master’s in Computer Science and continue to enhan
 
 **🚀 My Journey**
 
-My programming journey began shortly after high school when I was first introduced to C# and C++ in my Computer lab. Like many developers, it started with writing my first `"Hello World!"` program and wondering how simple code could produce visible results on a screen.
+My programming journey began shortly after high school when I was introduced to C# and C++ in computer lab. Like many developers, it started with writing my first `"Hello World!"` program and becoming curious about how code translates into visible output.
 
-That curiosity led me into pursuing a Bachelor's in Information Science & Engineering, where I explored a broad range of computer science topics—from programming fundamentals and software engineering to modern technologies such as Machine Learning and Large Language Models.
+That curiosity led me to pursue a Bachelor's in Information Science & Engineering, where I built a strong foundation in programming, software engineering, and core computer science concepts while gaining exposure to areas such as Machine Learning and Large Language Models.
 
-Over time, I chose **Python** as my primary development language due to its versatility and practical application across software development and data engineering.
+Over time, I chose **Python** as my primary development language due to its versatility across software development and data engineering.
 
-To strengthen my problem-solving and technical skills, I continue learning through platforms such as:
-
-- SQLZoo for SQL practice  
+To continue strengthening my technical skills, I regularly practice through:
+- SQLZoo for SQL  
 - HackerRank for Python and coding challenges  
-- Hands-on project development through GitHub  
+- Hands-on project development through GitHub
 
 **💻 What I'm Working On**
 
